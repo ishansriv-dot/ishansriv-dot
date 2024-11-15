@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishan srivastava
-- 👀 I’m interested in web dev and data structures
-- 🌱 I’m currently learning maharana institute of professional studies
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning react js and dats structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 can reach me from my linkedln profile
 <!---
